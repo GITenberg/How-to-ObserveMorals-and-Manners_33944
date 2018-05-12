@@ -1,0 +1,40 @@
+_repo: How-to-ObserveMorals-and-Manners_33944
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martineau, Harriet
+    birthdate: 1802
+    deathdate: 1876
+    gutenberg_agent_id: '25319'
+    url: http://www.gutenberg.org/2009/agents/25319
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Martineau
+description: "How to Observe Morals and Manners is a sociological treatise on methods\
+  \ of observing manners and morals written by Harriet Martineau in 1837–8 after a\
+  \ tour of America. She stated that she wasn't looking for fodder for a book, but\
+  \ also privately remarked that \"I am tired of being kept floundering among the\
+  \ details which are all a Hall and a Trollope (writer of Domestic Manners of the\
+  \ Americans) can bring away.”\nAs opposed to Victorian prescriptive handbooks of\
+  \ how societies ought to behave, Martineau focuses on observing locals on their\
+  \ own terms and emphasizes the need to accept cultural relativism of other people.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2010-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33944'
+  wikidata: Q5918707
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Observation (Psychology)'
+- !lcsh 'Social psychology -- Methodology'
+- !lcsh 'Manners and customs'
+- !lcc 'HM'
+title: 'How to Observe: Morals and Manners'
+url: http://www.gutenberg.org/ebooks/33944
+wikipedia:
+- https://en.wikipedia.org/wiki/How_to_Observe_Morals_and_Manners
